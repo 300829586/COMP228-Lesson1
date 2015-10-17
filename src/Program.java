@@ -1,9 +1,13 @@
 
 public class Program {
-
+	//put something before String
+	//name is an instance variable
+private static String _name = "";
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-System.out.println("Program message...");
+
+      System.out.println("Program Started from ");
+      _name="Shutao";
+      System.out.println(_name);
 	}
 
 }
