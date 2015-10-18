@@ -10,7 +10,7 @@ public class Program {
 		
 		Scanner input = new Scanner(System.in);
 		
-		System.out.print("Please enter your name ");
+		System.out.print("Please enter your name: ");
 		String myName = input.nextLine();
 		
 		System.out.print("Please enter your gender: ");
